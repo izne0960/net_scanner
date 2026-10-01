@@ -1,7 +1,7 @@
 # 🛡️ Advanced Python Network Scanner
 
 **A high-performance, multi-threaded network scanner built in Python.** Designed for speed, modularity, and clean terminal aesthetics.
-🚀 Core Features
+✨ Core Features
 
 🌐 Dynamic Subnet: Input any custom network range dynamically (e.g., 192.168.1, 10.0.0, etc.).
 
@@ -16,3 +16,9 @@
 🤖 Auto-Dependency: Automatically detects and installs missing packages (like colorama) without manual effort.
 
 🎨 Styled CLI Output: Clean, color-coded terminal interface for maximum readability.
+
+How to Run 🚀
+
+Open your terminal and run the script by typing:
+cd net_scanner
+python net_scanner.py
