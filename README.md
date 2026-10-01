@@ -20,5 +20,7 @@
 How to Run 🚀
 
 Open your terminal and run the script by typing:
+
 cd net_scanner
+and 
 python net_scanner.py
