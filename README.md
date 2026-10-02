@@ -17,11 +17,17 @@
 
 🎨 Styled CLI Output: Clean, color-coded terminal interface for maximum readability.
 
-How to Run 🚀
+## How to Run 🚀
+
+1. Clone or download this repository to your local machine:
+   ```bash
+   
+   git clone (https://github.com/izne0960/simple-ping-tool.git)
+
 
 Open your terminal and run the script by typing:
 
 cd net_scanner
-
  
+
 python net_scanner.py
